@@ -22,7 +22,7 @@
  }
  
  ## OUTPUT
- ![WhatsApp Image 2023-03-12 at 12 50 32](https://user-images.githubusercontent.com/127651217/224530361-4a6916fc-e069-4cf0-afa9-babab44fa7b1.jpeg)
+![WhatsApp Image 2023-03-12 at 12 50 32](https://user-images.githubusercontent.com/127651217/224531242-b4a1109f-640b-4358-aa4c-0de8b4c03580.jpeg)
 
 ## 2.Write a Java program to compare two numbers
 
