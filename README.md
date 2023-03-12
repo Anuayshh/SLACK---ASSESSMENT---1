@@ -195,7 +195,7 @@ public class Main {
 }
 ~~~
 ## OUTPUT
-![WhatsApp Image 2023-03-12 at 13 07 49](https://user-images.githubusercontent.com/127651217/224531041-3904d1ee-0120-4004-88e2-cdf8b88951de.jpeg)
+![WhatsApp Image 2023-03-12 at 13 21 52](https://user-images.githubusercontent.com/127651217/224531639-9e2bbcf8-2bc1-4e13-8a28-55f74c89b2be.jpeg)
 
 ## 8.Write a Java program to print multiplication table of given number
 
