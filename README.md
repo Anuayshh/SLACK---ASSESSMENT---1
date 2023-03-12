@@ -20,6 +20,7 @@
         System.out.println("Remainder of the input number:"+(a%b));
      }
  }
+ ~~~
  
  ## OUTPUT
 ![WhatsApp Image 2023-03-12 at 12 50 32 (1)](https://user-images.githubusercontent.com/127651217/224531313-0397f182-49ca-478b-a120-047dae90a5dc.jpeg)
@@ -49,6 +50,7 @@ public class Main {
         }
     }
 }
+~~~
 
 ## OUTPUT
 ![WhatsApp Image 2023-03-12 at 12 53 46](https://user-images.githubusercontent.com/127651217/224530512-2ea1fba0-140b-4583-b89a-f2bcfa6e628b.jpeg)
@@ -65,6 +67,7 @@ public class Main {
         
     }
 }
+~~~
 
 ## OUTPUT
 ![WhatsApp Image 2023-03-12 at 12 56 37](https://user-images.githubusercontent.com/127651217/224530631-0a0f7311-1dcd-492a-ba50-c13961871dce.jpeg)
@@ -88,7 +91,7 @@ public class Main {
         
     }
 }
-
+~~~
 ## OUTPUT
 ![WhatsApp Image 2023-03-12 at 13 00 46](https://user-images.githubusercontent.com/127651217/224530782-6eaa8175-982c-4abc-9056-dc242f10a092.jpeg)
 
@@ -124,7 +127,7 @@ public class Main {
         }
     }
 }
-
+~~~
 ## OUTPUT
 ![WhatsApp Image 2023-03-12 at 13 03 03](https://user-images.githubusercontent.com/127651217/224530872-c1e58f04-c9ab-492f-88f4-ece50f419264.jpeg)
 
@@ -146,6 +149,7 @@ public class Main {
         
     }
 }
+~~~
 
 ## OUTPUT
 ![WhatsApp Image 2023-03-12 at 13 05 08](https://user-images.githubusercontent.com/127651217/224530953-5be563a3-5a2b-418f-a7c0-82330356ec16.jpeg)
@@ -189,7 +193,7 @@ public class Main {
         
     }
 }
-
+~~~
 ## OUTPUT
 ![WhatsApp Image 2023-03-12 at 13 07 49](https://user-images.githubusercontent.com/127651217/224531041-3904d1ee-0120-4004-88e2-cdf8b88951de.jpeg)
 
@@ -210,6 +214,7 @@ public class Main {
         }
     }
 }
+~~~
 
 ## OUTPUT
 ![WhatsApp Image 2023-03-12 at 13 09 40](https://user-images.githubusercontent.com/127651217/224531104-8cd34052-72f1-4b9f-b940-0dedc33523b0.jpeg)
