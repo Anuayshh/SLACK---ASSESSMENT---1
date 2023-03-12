@@ -22,7 +22,8 @@
  }
  
  ## OUTPUT
-"C:\Users\DELL\Downloads\WhatsApp Image 2023-03-12 at 12.50.32.jpeg"
+![WhatsApp Image 2023-03-12 at 12 50 32 (1)](https://user-images.githubusercontent.com/127651217/224531313-0397f182-49ca-478b-a120-047dae90a5dc.jpeg)
+
 
 ## 2.Write a Java program to compare two numbers
 
